@@ -29,7 +29,7 @@ pip package manager
 Installation & Setup
 
 Clone the repository:
-git clone https://github.com/your-username/polyglot-reviewer.git
+git clone https://github.com/dakshhaha/Polyglot-Reviewer
 cd polyglot-reviewer
 
 Install dependencies:
